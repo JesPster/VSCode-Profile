@@ -2,6 +2,16 @@
 
 To make the vscode look more beautiful, you can use the profile I made by importing vscode.
 
+<b>Import steps</b>
+<ul>
+<li> 1 - Download file </li>
+<li> 2 - Open VSCode </li>
+<li> 3 - Click on the settings icon at the bottom left </li>
+<li> 4 - Go to profile from the window that opens </li>
+<li> 5 - Choose Import Profile </li>
+<li> 6 - Select and download the .code-profile file you downloaded </li>
+</ul>
+
   ```< appearance /> ```
   <hr>
   <p><i><b>Homepage ↓</b></i></p>
